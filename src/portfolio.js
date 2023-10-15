@@ -6,7 +6,7 @@ const settings = {
 
 //SEO Related settings
 const seo = {
-  title: "Vamsi's Portfolio",
+  title: "Vamsi Kasineni's Portfolio",
   description:
     "A passionate individual who always thrives to work on end to end products which develop sustainable and scalable social and technical systems to create impact.",
   og: {
@@ -23,7 +23,7 @@ const greeting = {
   subTitle:
     "A dedicated professional with a strong commitment to conceiving, developing, and nurturing comprehensive solutions that foster the growth of sustainable and scalable socio-technical ecosystems, driving meaningful and lasting impact.",
   secondarySubTitle:
-    "Currently looking for:</span> Software Engineer, Full Stack Developer, Java Developer, and Front End Developer roles",
+    "Currently looking for Software Engineer, Full Stack Developer, Java Developer, and Front End Developer roles",
   resumeLink: "",
 };
 
