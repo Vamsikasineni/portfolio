@@ -19,12 +19,13 @@ const seo = {
 //Home Page
 const greeting = {
   title: "Vamsi Kasineni",
-  logo_name: "vamsikrishna",
+  logo_name: "Kasineni",
   subTitle:
     "A dedicated professional with a strong commitment to conceiving, developing, and nurturing comprehensive solutions that foster the growth of sustainable and scalable socio-technical ecosystems, driving meaningful and lasting impact.",
   secondarySubTitle:
     "Currently looking for Software Engineer, Full Stack Developer, Java Developer, and Front End Developer roles",
-  resumeLink: "",
+  resumeLink:
+    "https://drive.google.com/file/d/1fp5HdL19jQIq9QffiDWcQzvAG7aCazeD/view?usp=drive_link",
 };
 
 const socialMediaLinks = [
@@ -264,7 +265,7 @@ const degrees = {
       subtitle: "Bachelor of Technology (B. Tech) in Computer Science",
       logo_path: "gec_logo.jpg",
       alt_name: "Gudlvalleru Engineering College",
-      duration: "July 2016 - June 2019",
+      duration: "July 2016 - June 2020",
       descriptions: [
         "⚡ Graduated with a Bachelor of Technology degree in Computer Science with a GPA of 3.33/4.0.",
         "⚡ Gained expertise in languages like Java, Python, JavaScript, TypeScript, and C#.",
@@ -341,7 +342,7 @@ const experience = {
       work: true,
       experiences: [
         {
-          title: "Software Engineer",
+          title: "Full Stack Java Developer",
           company: "SVL LLC",
           company_url: "https://www.svlllc.com/",
           duration: "August 2022 - Present",
@@ -390,7 +391,7 @@ const experience = {
 const projectsHeader = {
   title: "Projects",
   description:
-    "My projects makes use of vast variety of latest technology tools. My best experience is to create Data Science projects and deploy them to web applications using cloud infrastructure.",
+    "I have successfully undertaken a broad spectrum of projects related to Java Full Stack development, with a key strength in designing, building, and deploying web applications using cloud infrastructure.",
   avatar_image_path: "projects_image.svg",
 };
 
@@ -405,7 +406,8 @@ const contactPageData = {
 
   addressSection: {
     title: "Address",
-    subtitle: "Currenlty Located in Dallas, TX Feel Free to reach me!",
+    subtitle:
+      "Currently based in Dallas, Texas, I am open to relocation if required by the position!",
     Place: "Frisco",
     country: "US",
     state: "TEXAS",
