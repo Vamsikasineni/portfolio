@@ -2,7 +2,7 @@
   "private": true,
   "name": "portfolio",
   "version": "0.1.0",
-  "homepage": "https://Vamsikasineni.github.io/masterportfolio",
+  "homepage": "https://Vamsikasineni.github.io/portfolio",
   "scripts": {
     "build": "react-scripts build",
     "predeploy": "npm run build",
