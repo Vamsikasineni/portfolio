@@ -19,7 +19,7 @@ const seo = {
 //Home Page
 const greeting = {
   title: "Vamsi Kasineni",
-  logo_name: "Kasineni",
+  logo_name: "Vamsi_Krishna",
   subTitle:
     "A dedicated professional with a strong commitment to conceiving, developing, and nurturing comprehensive solutions that foster the growth of sustainable and scalable socio-technical ecosystems, driving meaningful and lasting impact.",
   secondarySubTitle:
@@ -37,7 +37,7 @@ const socialMediaLinks = [
   },
   {
     name: "LinkedIn",
-    link: "",
+    link: "https://www.linkedin.com/",
     fontAwesomeIcon: "fa-linkedin-in", // Reference https://fontawesome.com/icons/linkedin-in?style=brands
     backgroundColor: "#0077B5", // Reference https://simpleicons.org/?q=linkedin
   },
@@ -268,11 +268,8 @@ const degrees = {
       duration: "July 2016 - June 2020",
       descriptions: [
         "⚡ Graduated with a Bachelor of Technology degree in Computer Science with a GPA of 3.33/4.0.",
-        "⚡ Gained expertise in languages like Java, Python, JavaScript, TypeScript, and C#.",
-        "⚡ Developed front-end skills in React.js, Redux, Angular, Vue.js, HTML, CSS, Bootstrap, Material UI, and React Testing Library.",
-        "⚡ Gained proficiency in back-end development with Node.js, Express.js, Spring-Boot, Spring-DATA-JPA, Spring-Security, and building Restful and GraphQL APIs.",
-        "⚡ Worked with databases like MySQL, MongoDB, and MS SQL Server.",
-        "⚡ Acquired experience in using cloud services such as AWS, CI/CD, Docker, GitHub Actions, Git, Jira, and Postman.",
+        "⚡ Developed proficiency in data structures and algorithms, leveraging languages such as Java, Python, JavaScript, TypeScript, and C#.",
+        "⚡ Completed more than 200 leet code questions and secured 13th rank in Infy hackathon 2019.",
       ],
       certeficate_link: "http://gecgudlavalleru.ac.in/",
     },
@@ -399,7 +396,7 @@ const projectsHeader = {
 const contactPageData = {
   contactSection: {
     title: "Contact Me",
-    profile_image_path: "animated_logo.svg",
+    profile_image_path: "IMG_0328.jpg",
     description:
       "I am available on almost every social media. You can message me.",
   },
@@ -414,7 +411,7 @@ const contactPageData = {
     zipcodeCode: "75034",
     streetAddress: "9400 wade blvd",
     avatar_image_path: "address_image.svg",
-    location_map_link: "https://maps.app.goo.gl/h2BW6DWHWN3x2zFbA",
+    location_map_link: "https://maps.app.goo.gl",
   },
   EmailSection: {
     title: "Email",
